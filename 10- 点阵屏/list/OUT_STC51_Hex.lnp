@@ -1,0 +1,7 @@
+".\list\main.obj",
+".\list\timer.obj",
+".\list\GPIO.obj",
+".\list\delay.obj",
+".\list\led_display.obj" 
+TO ".\list\OUT_STC51_Hex" 
+PRINT(".\list\OUT_STC51_Hex.m51") RAMSIZE(256) 
